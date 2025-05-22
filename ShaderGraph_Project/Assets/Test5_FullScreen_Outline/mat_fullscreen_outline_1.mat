@@ -37,10 +37,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Fullscreen_AlphaBlendOperation: 0
+    - _Fullscreen_BlendMode: 1
+    - _Fullscreen_ColorBlendOperation: 0
+    - _Fullscreen_DepthWrite: 0
+    - _Fullscreen_DstAlphaBlend: 10
+    - _Fullscreen_DstColorBlend: 10
+    - _Fullscreen_SrcAlphaBlend: 1
+    - _Fullscreen_SrcColorBlend: 5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _StepEdge: 0.005
-    - _Thickness: 0.487
+    - _StepEdge: 0.006
+    - _Thickness: 0.3
     m_Colors:
     - _LineColor: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
